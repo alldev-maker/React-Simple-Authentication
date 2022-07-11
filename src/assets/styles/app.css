@@ -1,0 +1,35 @@
+.login-form {
+  padding: 30px;
+  width: 450px;
+  border-radius: 30px;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
+
+.form-group {
+  margin: 70px 0;
+  position: relative;
+}
+
+.form-control {
+  margin-bottom: 30px;
+  border: none;
+  border-bottom: 1px solid #979797;
+}
+
+.btn-purple {
+  padding: 15px;
+  width: 300px;
+  background-color: #4d4db4;
+  border-color: #4d4db4;
+  border-radius: 50px;
+  color: white;
+}
+
+.error-msg {
+  position: absolute;
+  bottom: -50px;
+  color: #ef0000;
+}
